@@ -1,0 +1,9 @@
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\bin\Debug\AlphabetCipher.exe.config
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\bin\Debug\AlphabetCipher.exe
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\bin\Debug\AlphabetCipher.pdb
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\obj\Debug\AlphabetCipher.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\obj\Debug\AlphabetCipher.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\obj\Debug\AlphabetCipher.exe
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\obj\Debug\AlphabetCipher.pdb
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\itadmin\Documents\Pet Projects\AlphabetCipher\AlphabetCipher\obj\Debug\AlphabetCipher.csproj.CopyComplete

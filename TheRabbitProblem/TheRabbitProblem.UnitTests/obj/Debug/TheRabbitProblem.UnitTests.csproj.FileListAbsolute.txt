@@ -1,0 +1,11 @@
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\bin\Debug\TheRabbitProblem.UnitTests.dll
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\bin\Debug\TheRabbitProblem.UnitTests.pdb
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\bin\Debug\TheRabbitProblem.exe
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\bin\Debug\TheRabbitProblem.pdb
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\bin\Debug\TheRabbitProblem.exe.config
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\obj\Debug\TheRabbitProblem.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\obj\Debug\TheRabbitProblem.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\obj\Debug\TheRabbitProblem.UnitTests.csproj.CopyComplete
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\obj\Debug\TheRabbitProblem.UnitTests.dll
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem.UnitTests\obj\Debug\TheRabbitProblem.UnitTests.pdb

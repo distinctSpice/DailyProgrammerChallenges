@@ -1,0 +1,10 @@
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\bin\Debug\PieCreation.exe.config
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\bin\Debug\PieCreation.exe
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\bin\Debug\PieCreation.pdb
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\obj\Debug\PieCreation.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\obj\Debug\PieCreation.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\obj\Debug\PieCreation.csproj.CopyComplete
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\obj\Debug\PieCreation.exe
+C:\Users\itadmin\Documents\Pet Projects\PieCreation\PieCreation\obj\Debug\PieCreation.pdb

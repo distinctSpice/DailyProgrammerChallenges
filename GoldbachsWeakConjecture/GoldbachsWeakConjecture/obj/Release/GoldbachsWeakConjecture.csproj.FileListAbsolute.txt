@@ -1,0 +1,9 @@
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\bin\Release\GoldbachsWeakConjecture.exe.config
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\bin\Release\GoldbachsWeakConjecture.exe
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\bin\Release\GoldbachsWeakConjecture.pdb
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\bin\Release\UsefulLibraries.Collections.dll
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\bin\Release\UsefulLibraries.Collections.pdb
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\obj\Release\GoldbachsWeakConjecture.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\obj\Release\GoldbachsWeakConjecture.csproj.CopyComplete
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\obj\Release\GoldbachsWeakConjecture.exe
+C:\Users\itadmin\Documents\Pet Projects\GoldbachsWeakConjecture\GoldbachsWeakConjecture\obj\Release\GoldbachsWeakConjecture.pdb

@@ -1,0 +1,7 @@
+c:\users\itadmin\Documents\Pet Projects\KolakoskisSequences\KolakoskisSequences\bin\Debug\KolakoskisSequences.exe.config
+c:\users\itadmin\Documents\Pet Projects\KolakoskisSequences\KolakoskisSequences\bin\Debug\KolakoskisSequences.exe
+c:\users\itadmin\Documents\Pet Projects\KolakoskisSequences\KolakoskisSequences\bin\Debug\KolakoskisSequences.pdb
+c:\users\itadmin\Documents\Pet Projects\KolakoskisSequences\KolakoskisSequences\obj\Debug\KolakoskisSequences.csprojResolveAssemblyReference.cache
+c:\users\itadmin\Documents\Pet Projects\KolakoskisSequences\KolakoskisSequences\obj\Debug\KolakoskisSequences.csproj.CoreCompileInputs.cache
+c:\users\itadmin\Documents\Pet Projects\KolakoskisSequences\KolakoskisSequences\obj\Debug\KolakoskisSequences.exe
+c:\users\itadmin\Documents\Pet Projects\KolakoskisSequences\KolakoskisSequences\obj\Debug\KolakoskisSequences.pdb

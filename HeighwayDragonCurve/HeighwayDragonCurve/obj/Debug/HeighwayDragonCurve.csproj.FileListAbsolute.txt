@@ -1,0 +1,6 @@
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurve\bin\Debug\HeighwayDragonCurve.dll
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurve\bin\Debug\HeighwayDragonCurve.pdb
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurve\obj\Debug\HeighwayDragonCurve.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurve\obj\Debug\HeighwayDragonCurve.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurve\obj\Debug\HeighwayDragonCurve.dll
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurve\obj\Debug\HeighwayDragonCurve.pdb

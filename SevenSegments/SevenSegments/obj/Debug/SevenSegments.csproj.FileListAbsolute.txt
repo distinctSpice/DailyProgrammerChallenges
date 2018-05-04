@@ -1,0 +1,7 @@
+C:\Users\itadmin\Documents\Pet Projects\SevenSegments\SevenSegments\bin\Debug\SevenSegments.exe.config
+C:\Users\itadmin\Documents\Pet Projects\SevenSegments\SevenSegments\bin\Debug\SevenSegments.exe
+C:\Users\itadmin\Documents\Pet Projects\SevenSegments\SevenSegments\bin\Debug\SevenSegments.pdb
+C:\Users\itadmin\Documents\Pet Projects\SevenSegments\SevenSegments\obj\Debug\SevenSegments.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\SevenSegments\SevenSegments\obj\Debug\SevenSegments.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\SevenSegments\SevenSegments\obj\Debug\SevenSegments.exe
+C:\Users\itadmin\Documents\Pet Projects\SevenSegments\SevenSegments\obj\Debug\SevenSegments.pdb

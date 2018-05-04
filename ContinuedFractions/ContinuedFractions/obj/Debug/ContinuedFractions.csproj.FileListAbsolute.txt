@@ -1,0 +1,7 @@
+c:\users\itadmin\Documents\Pet Projects\ContinuedFractions\ContinuedFractions\bin\Debug\ContinuedFractions.exe.config
+c:\users\itadmin\Documents\Pet Projects\ContinuedFractions\ContinuedFractions\bin\Debug\ContinuedFractions.exe
+c:\users\itadmin\Documents\Pet Projects\ContinuedFractions\ContinuedFractions\bin\Debug\ContinuedFractions.pdb
+c:\users\itadmin\Documents\Pet Projects\ContinuedFractions\ContinuedFractions\obj\Debug\ContinuedFractions.csproj.CoreCompileInputs.cache
+c:\users\itadmin\Documents\Pet Projects\ContinuedFractions\ContinuedFractions\obj\Debug\ContinuedFractions.exe
+c:\users\itadmin\Documents\Pet Projects\ContinuedFractions\ContinuedFractions\obj\Debug\ContinuedFractions.pdb
+c:\users\itadmin\Documents\Pet Projects\ContinuedFractions\ContinuedFractions\obj\Debug\ContinuedFractions.csprojResolveAssemblyReference.cache

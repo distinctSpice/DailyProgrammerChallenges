@@ -1,0 +1,10 @@
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\bin\Debug\TriangularNumbers.exe.config
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\bin\Debug\TriangularNumbers.exe
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\bin\Debug\TriangularNumbers.pdb
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\obj\Debug\TriangularNumbers.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\obj\Debug\TriangularNumbers.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\obj\Debug\TriangularNumbers.exe
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\obj\Debug\TriangularNumbers.pdb
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\bin\Debug\UsefulLibraries.Collections.dll
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\bin\Debug\UsefulLibraries.Collections.pdb
+C:\Users\itadmin\Documents\Pet Projects\TriangularNumbers\TriangularNumbers\obj\Debug\TriangularNumbers.csproj.CopyComplete

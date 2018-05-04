@@ -1,0 +1,10 @@
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\bin\Debug\HeighwayDragonCurveTests.dll
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\bin\Debug\HeighwayDragonCurveTests.pdb
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\bin\Debug\HeighwayDragonCurve.dll
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\bin\Debug\HeighwayDragonCurve.pdb
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\obj\Debug\HeighwayDragonCurveTests.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\obj\Debug\HeighwayDragonCurveTests.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\obj\Debug\HeighwayDragonCurveTests.csproj.CopyComplete
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\obj\Debug\HeighwayDragonCurveTests.dll
+C:\Users\itadmin\Documents\Pet Projects\HeighwayDragonCurve\HeighwayDragonCurveTests\obj\Debug\HeighwayDragonCurveTests.pdb

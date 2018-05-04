@@ -1,0 +1,7 @@
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem\bin\Debug\TheRabbitProblem.exe.config
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem\bin\Debug\TheRabbitProblem.exe
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem\bin\Debug\TheRabbitProblem.pdb
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem\obj\Debug\TheRabbitProblem.csprojResolveAssemblyReference.cache
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem\obj\Debug\TheRabbitProblem.csproj.CoreCompileInputs.cache
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem\obj\Debug\TheRabbitProblem.exe
+C:\Users\itadmin\Documents\Pet Projects\TheRabbitProblem\TheRabbitProblem\obj\Debug\TheRabbitProblem.pdb
